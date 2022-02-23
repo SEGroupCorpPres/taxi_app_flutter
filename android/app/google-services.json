@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "65824064028",
+    "project_id": "taxi-app-flutter-64f77",
+    "storage_bucket": "taxi-app-flutter-64f77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65824064028:android:fb2d665b928d10ecea55d9",
+        "android_client_info": {
+          "package_name": "uz.futuretechnologiesinc.segroupllc.presidentftinc.taxi_app_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65824064028-hvbhpv70id2587nul7vcralkmocaihpo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.futuretechnologiesinc.segroupllc.presidentftinc.taxi_app_flutter",
+            "certificate_hash": "38b68c8c9b82c43dc91c1a5edd1eafe281719495"
+          }
+        },
+        {
+          "client_id": "65824064028-6mha4chs0cojcpus01en165athn7mjbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoLjVPpsUkz9VF1qEfjLevRIW5ka3pn6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65824064028-6mha4chs0cojcpus01en165athn7mjbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
